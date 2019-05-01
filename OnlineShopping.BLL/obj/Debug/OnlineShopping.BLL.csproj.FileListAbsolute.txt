@@ -1,0 +1,13 @@
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\obj\Debug\OnlineShopping.BLL.csprojAssemblyReference.cache
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\obj\Debug\OnlineShopping.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\OnlineShopping.BLL.dll
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\OnlineShopping.BLL.pdb
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\OnlineShopping.DAL.dll
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\OnlineShopping.DAL.pdb
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\OnlineShopping.DAL.dll.config
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\obj\Debug\OnlineShopping.BLL.csproj.CopyComplete
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\obj\Debug\OnlineShopping.BLL.dll
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\obj\Debug\OnlineShopping.BLL.pdb
+C:\Users\ahmad\source\repos\OnlineShopping\OnlineShopping.BLL\bin\Debug\OnlineShopping.BLL.dll.config
